@@ -50,7 +50,7 @@ project-folder/
 ├── templates/
 │   └── index.html
 │
-└── static/
+└── static/script.js
 ```
 
 ---
